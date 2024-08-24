@@ -1,16 +1,57 @@
-# sample
+# It is heading1
 
-A new Flutter project.
+## It is heading2
 
-## Getting Started
+### It is Heading3
 
-This project is a starting point for a Flutter application.
+#### It is heading4
 
-A few resources to get you started if this is your first Flutter project:
+##### It is Heading5
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+###### It is Heading6
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Pointer1
+2. pointer2
+3. pointer3
+4. pointer4
+
+- dot pointer1
+- dot pointer2
+- dot pointer3
+- dot pointer4
+
+- ponter1
+- pointer2
+  - subpointer1
+    1. subinter poiner1
+      - sub sub poiner
+    3. subinter pointer2
+  - subpointer2
+  - subpointer3
+
+_italic_
+
+__Bold__
+
+~~Strick throgh~~
+
+[google](https://google.com)
+
+![New image](https://images.pexels.com/photos/4491508/pexels-photo-4491508.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
+>hai
+>>Hellooo
+
+| Name | Age | Gender |
+|:------|:-----:|--------:|
+|Imran |26 | Male|
+|Irfan | 25 | Male|
+|Fathima | 25 | Female|
+
+``` dart
+var age =25;
+```
+
+
+
+
