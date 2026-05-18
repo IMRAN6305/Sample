@@ -53,5 +53,12 @@ var age =25;
 ```
 
 
-
+```bash
+# Example
+git clone https://github.com/IMRAN6305/myapp.git
+cd myapp
+flutter clean
+flutter pub get
+flutter run
+```
 
